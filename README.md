@@ -34,6 +34,6 @@ This project was created by Mayra Cerpa Rodriguez.
 
 
 
- #LinkedIn 
+ # LinkedIn 
  If you would like to follow me or contact me, please check my profile on LinkedIn.
 ([🔗 Mayra Cerpa Rodriguez🔗](https://www.linkedin.com/in/mayra-cerpa-rodriguez-isc))
